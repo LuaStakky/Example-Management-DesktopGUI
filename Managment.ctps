@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="Managment.ppr"/>
+        <FRMtype Value="0"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="2"/>
+        <CursorPos X="48" Y="9"/>
+        <UsageCount Value="219"/>
+      </Unit>
+      <Unit>
+        <Filename Value="MainForm.pas"/>
+        <FRMtype Value="200"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <TopLine Value="444"/>
+        <CursorPos X="37" Y="460"/>
+        <UsageCount Value="219"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="LoginDialog.pas"/>
+        <FRMtype Value="200"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="LoginForm"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="51"/>
+        <CursorPos X="31" Y="66"/>
+        <UsageCount Value="219"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="DBConnector.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="203"/>
+        <CursorPos X="37" Y="213"/>
+        <UsageCount Value="219"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="RedmineConnector.pas"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="3" Y="22"/>
+        <UsageCount Value="115"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\codetyphon\fpcsrc\packages\fcl-json\src\fpjson.pp"/>
+        <FRMtype Value="0"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="78"/>
+        <CursorPos X="26" Y="96"/>
+        <UsageCount Value="23"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\codetyphon\typhon\lcl\graphics.pp"/>
+        <FRMtype Value="0"/>
+        <UnitName Value="Graphics"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1077"/>
+        <CursorPos X="17" Y="1091"/>
+        <UsageCount Value="2"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\codetyphon\typhon\lcl\include\canvas.inc"/>
+        <FRMtype Value="0"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1693"/>
+        <CursorPos Y="1708"/>
+        <UsageCount Value="1"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\codetyphon\typhon\components\pl_OpenGL\source\OpenGLCanvas.pas"/>
+        <FRMtype Value="0"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="187"/>
+        <CursorPos Y="27"/>
+        <UsageCount Value="4"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\codetyphon\typhon\components\pl_OpenGL\source\ctOpenGL2DCanvas.pas"/>
+        <FRMtype Value="0"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="322"/>
+        <CursorPos X="4" Y="100"/>
+        <UsageCount Value="4"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\codetyphon\fpcsrc\rtl\objpas\classes\classesh.inc"/>
+        <FRMtype Value="0"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1995"/>
+        <CursorPos X="3" Y="1869"/>
+        <UsageCount Value="1"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\codetyphon\fpcsrc\rtl\inc\threadh.inc"/>
+        <FRMtype Value="0"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="20"/>
+        <CursorPos X="3" Y="35"/>
+        <UsageCount Value="21"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\codetyphon\typhon\lcl\include\control.inc"/>
+        <FRMtype Value="0"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="3928"/>
+        <CursorPos Y="3944"/>
+        <UsageCount Value="9"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\codetyphon\fpcsrc\rtl\objpas\fgl.pp"/>
+        <FRMtype Value="0"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1069"/>
+        <CursorPos Y="1085"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="MainForm.frm"/>
+        <FRMtype Value="0"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="9"/>
+        <DefaultSyntaxHighlighter Value="FRM"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\codetyphon\typhon\lcl\include\customlistbox.inc"/>
+        <FRMtype Value="0"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="523"/>
+        <CursorPos Y="538"/>
+        <UsageCount Value="9"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\codetyphon\typhon\lcl\interfaces\win32\win32listsl.inc"/>
+        <FRMtype Value="0"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="188"/>
+        <CursorPos Y="203"/>
+        <UsageCount Value="5"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\codetyphon\typhon\components\pl_Indy\source\IdIOHandler.pas"/>
+        <FRMtype Value="0"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1673"/>
+        <CursorPos Y="1688"/>
+        <UsageCount Value="6"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\codetyphon\typhon\components\pl_Indy\source\IdIOHandlerStack.pas"/>
+        <FRMtype Value="0"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="440"/>
+        <CursorPos Y="454"/>
+        <UsageCount Value="6"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\codetyphon\typhon\lcl\include\listcolumns.inc"/>
+        <FRMtype Value="0"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="67"/>
+        <CursorPos Y="82"/>
+        <UsageCount Value="7"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\codetyphon\typhon\components\BaseIdeintf\propedits.pp"/>
+        <FRMtype Value="0"/>
+        <UnitName Value="PropEdits"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="4018"/>
+        <CursorPos Y="4033"/>
+        <UsageCount Value="12"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\codetyphon\fpcsrc\rtl\objpas\sysutils\datih.inc"/>
+        <FRMtype Value="0"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="143"/>
+        <CursorPos X="40" Y="157"/>
+        <UsageCount Value="9"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\codetyphon\fpcsrc\packages\fcl-base\src\eventlog.pp"/>
+        <FRMtype Value="0"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="14" Y="18"/>
+        <UsageCount Value="9"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\codetyphon\fpcsrc\packages\sdl\src\logger.pas"/>
+        <FRMtype Value="0"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="45"/>
+        <CursorPos X="15" Y="99"/>
+        <UsageCount Value="9"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\codetyphon\typhon\components\BaseUtils\lazlogger.pas"/>
+        <FRMtype Value="0"/>
+        <UnitName Value="LazLogger"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="184"/>
+        <CursorPos X="18" Y="194"/>
+        <UsageCount Value="9"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\codetyphon\typhon\components\pl_CEF4Typhon\source\uCEFChromium.pas"/>
+        <FRMtype Value="0"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="112"/>
+        <CursorPos X="29" Y="141"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\codetyphon\typhon\components\pl_CEF4Typhon\source\uCEFApplication.pas"/>
+        <FRMtype Value="0"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="176"/>
+        <CursorPos X="32" Y="179"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\codetyphon\typhon\components\pl_CEF4Typhon\source\uCEFApplicationCore.pas"/>
+        <FRMtype Value="0"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1479"/>
+        <CursorPos X="50" Y="1486"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\codetyphon\typhon\components\pl_CEF4Typhon\source\uCEFChromiumCore.pas"/>
+        <FRMtype Value="0"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="758"/>
+        <CursorPos X="53" Y="773"/>
+        <UsageCount Value="12"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\codetyphon\typhon\components\pl_CEF4Typhon\source\uCEFChromiumWindow.pas"/>
+        <FRMtype Value="0"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="246"/>
+        <CursorPos X="3" Y="265"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\codetyphon\typhon\components\pl_CEF4Typhon\source\uCEFInterfaces.pas"/>
+        <FRMtype Value="0"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="594"/>
+        <CursorPos X="53" Y="611"/>
+        <UsageCount Value="11"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\codetyphon\typhon\components\pl_CEF4Typhon\source\uCEFTypes.pas"/>
+        <FRMtype Value="0"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1402"/>
+        <CursorPos X="3" Y="1417"/>
+        <UsageCount Value="11"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\codetyphon\typhon\lcl\controls.pp"/>
+        <FRMtype Value="0"/>
+        <UnitName Value="Controls"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="182"/>
+        <CursorPos X="25" Y="197"/>
+        <UsageCount Value="11"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\codetyphon\typhon\components\pl_Indy\source\IdSSLOpenSSLHeaders.pas"/>
+        <FRMtype Value="0"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="82" Y="8"/>
+        <UsageCount Value="10"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="28">
+      <Position>
+        <Filename Value="DBConnector.pas"/>
+        <Caret Line="41" Column="22" TopLine="39"/>
+      </Position>
+      <Position>
+        <Filename Value="DBConnector.pas"/>
+        <Caret Line="55" Column="22" TopLine="34"/>
+      </Position>
+      <Position>
+        <Filename Value="DBConnector.pas"/>
+        <Caret Line="203" Column="25" TopLine="192"/>
+      </Position>
+      <Position>
+        <Filename Value="DBConnector.pas"/>
+        <Caret Line="56" Column="16" TopLine="43"/>
+      </Position>
+      <Position>
+        <Filename Value="MainForm.pas"/>
+        <Caret Line="95" Column="61" TopLine="73"/>
+      </Position>
+      <Position>
+        <Filename Value="MainForm.pas"/>
+        <Caret Line="89" Column="23" TopLine="81"/>
+      </Position>
+      <Position>
+        <Filename Value="MainForm.pas"/>
+        <Caret Line="408" Column="24" TopLine="390"/>
+      </Position>
+      <Position>
+        <Filename Value="MainForm.pas"/>
+        <Caret Line="89" Column="23" TopLine="67"/>
+      </Position>
+      <Position>
+        <Filename Value="MainForm.pas"/>
+        <Caret Line="408" Column="26" TopLine="405"/>
+      </Position>
+      <Position>
+        <Filename Value="MainForm.pas"/>
+        <Caret Line="68" Column="23" TopLine="52"/>
+      </Position>
+      <Position>
+        <Filename Value="MainForm.pas"/>
+        <Caret Line="427" Column="27" TopLine="401"/>
+      </Position>
+      <Position>
+        <Filename Value="MainForm.pas"/>
+        <Caret Line="102" Column="24" TopLine="85"/>
+      </Position>
+      <Position>
+        <Filename Value="MainForm.pas"/>
+        <Caret Line="104" Column="22" TopLine="78"/>
+      </Position>
+      <Position>
+        <Filename Value="MainForm.pas"/>
+        <Caret Line="420" Column="21" TopLine="419"/>
+      </Position>
+      <Position>
+        <Filename Value="MainForm.pas"/>
+        <Caret Line="103" Column="24" TopLine="82"/>
+      </Position>
+      <Position>
+        <Filename Value="MainForm.pas"/>
+        <Caret Line="433" Column="21" TopLine="422"/>
+      </Position>
+      <Position>
+        <Filename Value="MainForm.pas"/>
+        <Caret Line="434" Column="19" TopLine="423"/>
+      </Position>
+      <Position>
+        <Filename Value="MainForm.pas"/>
+        <Caret Line="435" Column="19" TopLine="424"/>
+      </Position>
+      <Position>
+        <Filename Value="MainForm.pas"/>
+        <Caret Line="436" Column="19" TopLine="425"/>
+      </Position>
+      <Position>
+        <Filename Value="MainForm.pas"/>
+        <Caret Line="534" Column="3" TopLine="532"/>
+      </Position>
+      <Position>
+        <Filename Value="MainForm.pas"/>
+        <Caret Line="446" Column="109" TopLine="427"/>
+      </Position>
+      <Position>
+        <Filename Value="MainForm.pas"/>
+        <Caret Line="438" Column="55" TopLine="423"/>
+      </Position>
+      <Position>
+        <Filename Value="MainForm.pas"/>
+        <Caret Line="559" Column="9" TopLine="533"/>
+      </Position>
+      <Position>
+        <Filename Value="MainForm.pas"/>
+        <Caret Line="557" Column="40" TopLine="542"/>
+      </Position>
+      <Position>
+        <Filename Value="MainForm.pas"/>
+        <Caret Line="109" Column="27" TopLine="86"/>
+      </Position>
+      <Position>
+        <Filename Value="MainForm.pas"/>
+        <Caret Line="446" Column="20" TopLine="444"/>
+      </Position>
+      <Position>
+        <Filename Value="MainForm.pas"/>
+        <Caret Line="109" Column="26" TopLine="94"/>
+      </Position>
+      <Position>
+        <Filename Value="MainForm.pas"/>
+        <Caret Line="446" Column="22" TopLine="444"/>
+      </Position>
+      <Position>
+        <Filename Value="DBConnector.pas"/>
+        <Caret Line="56" Column="27" TopLine="41"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

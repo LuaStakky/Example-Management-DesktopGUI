@@ -1,0 +1,32 @@
+program Managment;
+
+{$mode objfpc}{$H+}
+
+uses
+  {$IFDEF UNIX}
+  cthreads,
+  {$ENDIF}
+  {$IFDEF HASAMIGA}
+  athreads,
+  {$ENDIF}
+  Interfaces, // this includes the CT adLCL widgetset
+  Forms, MainForm, LoginDialog, DBConnector, uCEFApplication;
+
+{$R *.res}
+
+begin
+  GlobalCEFApp:=TCefApplication.Create;
+
+  if GlobalCEFApp.StartMainProcess then
+  begin
+    RequireDerivedFormResource:=True;
+  Application.Scaled:=True;
+    Application.Initialize;
+    Application.CreateForm(TForm1, Form1);
+    Application.CreateForm(TLoginForm, LoginForm);
+    Application.Run;
+  end;
+
+  DestroyGlobalCEFApp;
+end.
+
