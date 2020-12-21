@@ -6,6 +6,8 @@ Writed using [Codetyphon](https://www.pilotlogic.com/sitejoom/) and [Indy](http:
 
 See `DBConnector.pas` as example for using API of Example-Management
 
+You also need CEF binaries for run it.
+
 ## What can do this project?
 
 * It can connect to an Redmine instances and create report about workers payment.
